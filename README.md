@@ -36,6 +36,8 @@ Initialize Arduino
 
 ### FastLed
 
+You will first need to download the [FastLED Library](https://github.com/FastLED/FastLED/releases) and extract it to your Arduino workspace.
+
 ```ino 
 #include <FastLED.h>
 
